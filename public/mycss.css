@@ -1,3 +1,5 @@
-p {
-    color: blue;
+style.innerHTML {
+    color: cyan !important;
+    font-size: 1.05em;
+    /* "Times New Roman", Arial, Helvetica, "Lucida Console", "Courier New", monospace, "Georgia"*/
 }
